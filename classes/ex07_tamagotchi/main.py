@@ -7,7 +7,7 @@ def main():
     print("--------------------------")
     print("        TAMAGOTCHI")
     print("--------------------------")
-    player = Tamagotchi("Tamagotchi", 100, 30)
+    player = Tamagotchi("Tamagotchi", 90, 30)
     player.altera_nome()
 
     sair = False
